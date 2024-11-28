@@ -53,7 +53,7 @@ npm install puppeteer mysql2
 
 ### 3. Konfigurasi Database
 
-Buat database MySQL dengan nama `skolla_intern_test` dan tabel `school_data_fredrik`. Berikut adalah DDL untuk membuat tabel:
+Buat database MySQL dengan nama `skolla_intern_test` dan tabel `school_data_[username]`. Berikut adalah DDL untuk membuat tabel:
 
 ```sql
 CREATE DATABASE IF NOT EXISTS skolla_intern_test;
