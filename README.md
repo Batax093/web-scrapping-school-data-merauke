@@ -17,6 +17,16 @@ Proyek ini adalah bagian dari **Skolla Intern Test** untuk posisi **Data Adminis
 
 ---
 
+## DDL
+
+Berikur merupakan Data Definition Language yang saya pakai
+
+Character utf8mb4
+Collate utf8mb4_unicode_ci
+Engine MariaDB
+
+---
+
 ## Struktur Data
 
 Data yang diekstrak memiliki kolom-kolom berikut:
