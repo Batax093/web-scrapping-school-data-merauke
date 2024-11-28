@@ -13,7 +13,7 @@ Proyek ini adalah bagian dari **Skolla Intern Test** untuk posisi **Data Adminis
 - **Scraping Data Sekolah** dari website Dapodik menggunakan **Puppeteer**.
 - **Menyimpan Data** ke dalam database **MySQL** secara otomatis.
 - Mendukung jenjang pendidikan seperti TK, SD, SMP, SMA, dll.
-- Menangani data dengan validasi untuk nilai `null` agar disimpan sebagai `0` jika diperlukan.
+- Menangani data dengan validasi untuk nilai `null` agar disimpan sebagai `0`.
 
 ---
 
