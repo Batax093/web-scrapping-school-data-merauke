@@ -148,4 +148,4 @@ mysqldump -u root -p skolla_intern_test > skolla_intern_fredrik.sql
 
 ## Lisensi
 
-Proyek ini dibuat untuk keperluan tes Skolla Intern dan bukan untuk distribusi publik.
+Proyek ini dibuat untuk keperluan tes Skolla Intern.
