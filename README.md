@@ -21,9 +21,9 @@ Proyek ini adalah bagian dari **Skolla Intern Test** untuk posisi **Data Adminis
 
 Berikur merupakan Data Definition Language yang saya pakai
 
-Character utf8mb4
-Collate utf8mb4_unicode_ci
-Engine MariaDB
+- Character utf8mb4
+- Collate utf8mb4_unicode_ci
+- Engine MariaDB
 
 ---
 
